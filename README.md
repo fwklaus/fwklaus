@@ -1,14 +1,17 @@
-fwklaus/README.md
-
 I'm a career changer and full-stack web developer living in Colorado, USA.
 
-# Projects
+I am proficient and enjoy working with the following languages, technologies, and concepts: JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
 
-# Writing
+## Projects
 
-# Open Source
+## Writing
+- I share what I've learned about software engineering on my technical blog [here](https://fwklaus.medium.com/)
 
-# Contact
+## Open Source
+- More to come...
+
+## Contact
+- You can reach me on [LinkedIn](www.linkedin.com/in/forrestklausmeier) or at my hello at [fwklausmeier.com](#)
 
 <!--
 **fwklaus/fwklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
