@@ -1,4 +1,14 @@
-### Hi there 👋
+fwklaus/README.md
+
+I'm a career changer and full-stack web developer living in Colorado, USA.
+
+# Projects
+
+# Writing
+
+# Open Source
+
+# Contact
 
 <!--
 **fwklaus/fwklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
