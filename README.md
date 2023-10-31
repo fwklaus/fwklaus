@@ -3,15 +3,18 @@ I'm a career changer and full-stack web developer living in Colorado, USA.
 In my projects, I enjoy working with the following languages, technologies, and concepts: JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
 
 ## Projects
+- Project-X group project - In progress...
+- Chess project - In progress...
+- Data Structures and Algorithms demo project - In proress...
 
 ## Writing
-- I share what I've learned about software engineering on my technical blog [here](https://fwklaus.medium.com/)
+- I share what I've learned about software engineering on my technical blog at [Medium](https://fwklaus.medium.com/)
 
 ## Open Source
-- More to come...
+- In progress...
 
 ## Contact
-- You can reach me on [LinkedIn](www.linkedin.com/in/forrestklausmeier) or at my hello at [fwklausmeier.com](#)
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/) or at "hello" on [fwklausmeier.com](#)
 
 <!--
 **fwklaus/fwklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
