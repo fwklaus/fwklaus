@@ -1,6 +1,6 @@
 I'm a career changer and full-stack web developer living in Colorado, USA.
 
-I am proficient and enjoy working with the following languages, technologies, and concepts: JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
+In my projects, I enjoy working with the following languages, technologies, and concepts: JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
 
 ## Projects
 
