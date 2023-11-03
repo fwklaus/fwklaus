@@ -1,22 +1,18 @@
-I'm a full-stack web developer based in Colorado, USA.
+I'm a full-stack web developer living in Colorado, USA.
 
-## Tech Stack
-
-JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
+## Writing
+- I share what I've learned about software engineering on my technical blog at [Medium](https://fwklaus.medium.com/)
 
 ## Projects
 - Project-X group project - In progress...
 - Chess project - In progress...
-- Data Structures and Algorithms demo project - In proress...
-
-## Writing
-- I share what I've learned about software engineering on my technical blog at [Medium](https://fwklaus.medium.com/)
+- Data Structures and Algorithms demo project - In progress...
 
 ## Open Source
 - In progress...
 
 ## Contact
-- You can reach me at [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/)
+- You can reach me at [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/) or at hello, at [forrestklausmeier.com]() 
 
 <!--
 **fwklaus/fwklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
