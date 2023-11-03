@@ -1,6 +1,8 @@
-I'm a career changer and full-stack web developer living in Colorado, USA.
+I'm a full-stack web developer based in Colorado, USA.
 
-In my projects, I enjoy working with the following languages, technologies, and concepts: JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
+## Tech Stack
+
+JavaScript, TypeScript, Ruby, HTML & CSS, PostgreSQL, Git, Data structures and Algorithms.
 
 ## Projects
 - Project-X group project - In progress...
@@ -14,7 +16,7 @@ In my projects, I enjoy working with the following languages, technologies, and 
 - In progress...
 
 ## Contact
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/) or at "hello" on [fwklausmeier.com](#)
+- You can reach me at [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/)
 
 <!--
 **fwklaus/fwklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
