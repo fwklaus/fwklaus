@@ -1,4 +1,4 @@
-I'm a full-stack web developer living in Colorado, USA.
+Hello! I'm a full-stack web developer living in Colorado, USA.
 
 ## Writing
 - I share what I've learned about software engineering on my technical blog at [Medium](https://fwklaus.medium.com/)
