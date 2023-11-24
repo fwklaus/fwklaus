@@ -1,7 +1,7 @@
-Hello! I'm a full-stack web developer living in Colorado, USA.
+Hello! I'm a software engineer based in Colorado.
 
 ## Writing
-- I share what I've learned about software engineering on my technical blog at [Medium](https://fwklaus.medium.com/)
+- I share what I've learned about software engineering on my technical blog [here].(https://fwklaus.medium.com/)
 
 ## Projects
 - Project-X group project - In progress...
