@@ -12,7 +12,7 @@ Hello! I'm a software engineer based in Colorado.
 - In progress...
 
 ## Contact
-- You can reach me at [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/) or at hello, at [forrestklausmeier.com]() 
+- You can reach me at [LinkedIn](https://www.linkedin.com/in/forrestklausmeier/) or at hello, at fwklausmeier@gmail.com
 
 <!--
 **fwklaus/fwklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
